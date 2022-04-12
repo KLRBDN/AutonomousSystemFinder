@@ -10,3 +10,5 @@
 1. "Internet Protocols. Task 1".exe Google.com - сработает правильно.
 2. "Internet Protocols. Task 1".exe 123 - выдаст ошибку.
 3. "Internet Protocols. Task 1".exe 74.125.77.147 - сработает правильно.
+
+Овчинников Павел, КН-202
